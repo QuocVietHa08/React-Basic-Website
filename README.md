@@ -1,3 +1,9 @@
+#Some picture of the project
+![](public/anh1.png)
+![](public/anh2.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
